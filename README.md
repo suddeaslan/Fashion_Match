@@ -223,8 +223,8 @@ FashionMatch/
 ---
 ## Authors
 
-Sude Aslan
-Güldeniz Güzelay
+* Sude Aslan
+* Güldeniz Güzelay
 ---
 
 
