@@ -221,6 +221,10 @@ FashionMatch/
 * Integration with real-time fashion e-commerce platforms
 
 
+## Authors
+
+Sude Aslan
+Güldeniz Güzelay
 
 
 
